@@ -1,3 +1,5 @@
+organization := "com.github.edvakf"
+
 name := "my-complex"
 
 version := "0.0.1"
